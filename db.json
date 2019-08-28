@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    { "id": 1, "name": "Macbook Pro 2019", "price": 1200, "details": "Details of product", "seller": "John Doe", "image_url": "https://www.gigantti.fi/image/dv_web_D180001002179968/MACBPMPXQ2KSA/macbook-pro-13-mpxq2-taehtiharmaa.jpg" },
+    { "id": 2, "name": "Electric scooter", "price": 250, "details": "Details of product", "seller": "Anna K", "image_url": "https://cdn2.bigcommerce.com/server5900/ew8xe/products/4203/images/30445/xiaomiscooter__02985.1555291830.1280.1280.jpg" },
+    { "id": 3, "name": "Parrot Drone", "price": 999, "details": "Details of product", "seller": "Luke B", "image_url": "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/192059-L-LO.jpg" }
+  ]
 }
